@@ -7,7 +7,7 @@
 ---
 
 ### 🛠 About Me
-- 🎓 Final-year Computer Science student aiming for a PhD in **Systems + ML research**
+- 🎓 Final-year Computer Science student.<!-- aiming for a PhD in **Systems + ML research** -->
 - 📚 Passionate about **System Programming**, **OS Development**, **Data Compression**, **Computer Vision**, and **Computer Graphics**
 
 ---
