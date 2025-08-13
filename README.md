@@ -1,13 +1,13 @@
 <!-- Header -->
 <h1 align="center">S. M. Minhazul Haque</h1>
 <p align="center">
-  <i>Systems Programmer · Aspiring Researcher · Developer</i>
+  <i>Student · Systems Programmer · Aspiring Researcher · Developer</i>
 </p>
 
 ---
 
 ### 🛠 About Me
-- 🎓 Final-year Computer Science student.<!-- aiming for a PhD in **Systems + ML research** -->
+- 🎓 Final-year Computer Science and Engineering (CSE) student<!-- aiming for a PhD in **Systems + ML research** -->
 - 📚 Passionate about **System Programming**, **OS Development**, **Data Compression**, **Computer Vision**, and **Computer Graphics**
 
 ---
